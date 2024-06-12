@@ -3606,6 +3606,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: goldfish
       objectReference: {fileID: 0}
+    - target: {fileID: 22981531778893785, guid: f8bf3dde61ec7ec4ea1df56c61ff7a39, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 800080768476061027, guid: f8bf3dde61ec7ec4ea1df56c61ff7a39, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
