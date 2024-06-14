@@ -58,6 +58,8 @@ public class GameManager : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        SaveCoins(10000);
+
         musicController = GameObject.Find("Music").GetComponent<MusicController>();
         gameOver = false;
         score = 0;
